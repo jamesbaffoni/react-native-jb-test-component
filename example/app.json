@@ -1,0 +1,23 @@
+{
+  "name": "react-native-jb-test-component-example",
+  "displayName": "JbTestComponent Example",
+  "expo": {
+    "name": "react-native-jb-test-component-example",
+    "slug": "react-native-jb-test-component-example",
+    "description": "Example app for react-native-jb-test-component",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "jsEngine": "hermes",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
